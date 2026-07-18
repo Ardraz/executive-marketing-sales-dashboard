@@ -1,35 +1,66 @@
 # Executive Marketing & Sales Dashboard
 
+![Python](...)
+![Power BI](...)
+![License](...)
+![Version](...)
+
+---
+
 ## Overview
 
 ...
 
-## Architecture
+---
+
+## Project Architecture
 
 ...
 
-## Folder Structure
-
-...
+---
 
 ## Features
 
 ...
 
+---
+
+## Folder Structure
+
+...
+
+---
+
 ## Technology Stack
 
 ...
+
+---
+
+## Project Roadmap
+
+...
+
+---
 
 ## Screenshots
 
 ...
 
-## Roadmap
-
-...
+---
 
 ## Installation
 
 ...
 
+---
+
+## Author
+
+...
+
+---
+
 ## License
+
+...
